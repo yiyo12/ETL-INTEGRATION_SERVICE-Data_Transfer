@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-PHOVAGE.AdventureWorks2017"
+  DTS:DTSID="{E7A8F25C-5915-41F2-A9ED-B3A6C1EACCFA}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-PHOVAGE;Initial Catalog=AdventureWorks2017;Integrated Security=True;Application Name=SSIS-AdventureWorksETL-Example-{E7A8F25C-5915-41F2-A9ED-B3A6C1EACCFA}DESKTOP-PHOVAGE.AdventureWorks2017;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
